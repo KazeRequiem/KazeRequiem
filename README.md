@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KazeRequiem
-- 👀 My discord is Kaze#0690
+- 👀 My discord is kaeborsalino
 
 <!---
 KazeRequiem/KazeRequiem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
